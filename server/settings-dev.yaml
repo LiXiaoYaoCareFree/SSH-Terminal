@@ -2,7 +2,7 @@ system:
   ip: 127.0.0.1
   port: 8080
 ssh:
-  destIP: 192.168.179.135
+  destIP: 127.0.0.1
   destPort: 22
   user: root
-  pwd: SZlly043691++**
+  pwd: root
