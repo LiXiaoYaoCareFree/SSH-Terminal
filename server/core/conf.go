@@ -8,6 +8,7 @@ import (
 	"log"
 	"os"
 	"server/config"
+	"server/global"
 )
 
 const ConfigFile = "settings.yaml"
