@@ -3,6 +3,7 @@ package session
 import (
 	"server/proxy/sshd/dto"
 	"server/proxy/sshd/guacamole"
+	"server/proxy/sshd/term"
 	"sync"
 
 	"github.com/gorilla/websocket"
