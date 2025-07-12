@@ -20,3 +20,5 @@ log/
 !/server/settings.yaml
 
 ssh_server/settings.yaml
+
+ssh_server/init/.ssh/id_rsa
