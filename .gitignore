@@ -18,3 +18,5 @@
 .vscode/
 log/
 !/server/settings.yaml
+
+ssh_server/settings.yaml
